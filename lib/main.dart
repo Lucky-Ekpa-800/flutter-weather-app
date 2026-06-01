@@ -32,7 +32,7 @@ class UserPage extends StatefulWidget {
 }
 
 class _UserPageState extends State<UserPage> {
-  final String apiKey = "3d31bd1b3cbb478ca9ccc6fe765ee759";
+  final String apiKey = "Your API Key";
 
   final TextEditingController cityController =
       TextEditingController();
